@@ -3,6 +3,11 @@
 ## Overview
 
 This is the official website for Aureo, a brand offering stylish and technologically advanced smartwatches. The site showcases product features, brand philosophy, and contact information.
+![image](https://github.com/user-attachments/assets/8fd74786-de7b-4889-b9fc-442fb9575ab4)
+![image](https://github.com/user-attachments/assets/46bdb9d4-9edd-461f-b06c-1400e264917d)
+![image](https://github.com/user-attachments/assets/6ed4255c-09b1-4168-8e62-a1d0b14af419)
+
+
 
 ## Features
 
