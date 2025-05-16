@@ -20,19 +20,13 @@ This is the official website for Aureo, a brand offering stylish and technologic
 
 - HTML5
 - CSS3
-- JavaScript (if applicable for interactivity)
+- JavaScript
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/aureo-website.git`
-2. Navigate to the project folder: `cd aureo-website`
+1. Clone the repository: `git clone https://github.com/tarekali442000/Smart-Watch.git`
+2. Navigate to the project folder: `cd Smart watch`
 3. Open `index.html` in a web browser to view the site.
-
-## Usage
-
-- Access the website via the `index.html` file.
-- Navigate through sections using the menu bar.
-- Submit inquiries via the contact form (ensure a backend is set up for form handling if live).
 
 ## Contributing
 
